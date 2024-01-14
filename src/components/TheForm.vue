@@ -1,5 +1,7 @@
 <template>
-  <div class="flex flex-col justify-center items-center text-sm p-6 sm:p-8">
+  <div
+    class="flex justify-center sm:justify-start items-center text-sm p-6 sm:p-8"
+  >
     <div>
       <button
         class="w-full text-white font-light bg-primary-blue rounded-lg hover:bg-primary-blue/[0.9] py-4 px-16 sm:px-10 leading-6 shadow-custom"
@@ -54,7 +56,9 @@
               CLAIM YOUR FREE TRIAL
             </button>
           </div>
-          <p class="text-[0.65rem] text-center font-semibold text-grayish-blue px-6 sm:px-8 mt-2">
+          <p
+            class="text-[0.65rem] text-center font-semibold text-grayish-blue px-6 sm:px-8 mt-2"
+          >
             By clicking the button, you are agreeing to our
             <span class="text-primary-red">Terms and Services</span>
           </p>

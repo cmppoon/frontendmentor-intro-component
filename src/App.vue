@@ -6,7 +6,7 @@ import TheIntro from "./components/TheIntro.vue";
 <template>
   <main>
     <div
-      class="grid grid-rows-2 sm:grid-rows-none sm:grid-cols-2 min-h-screen bg-main bg-primary-red"
+      class="sm:grid sm:grid-cols-2 min-h-screen bg-main bg-primary-red"
     >
       <TheIntro></TheIntro>
       <TheForm></TheForm>
