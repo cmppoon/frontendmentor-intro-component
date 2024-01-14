@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-col justify-center items-center text-sm p-6 sm:p-8">
-    <div class="max-w-[32rem]">
+    <div>
       <button
         class="w-full text-white font-light bg-primary-blue rounded-lg hover:bg-primary-blue/[0.9] py-4 px-16 sm:px-10 leading-6 shadow-custom"
       >
