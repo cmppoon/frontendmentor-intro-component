@@ -10,7 +10,7 @@
         thereafter
       </button>
 
-      <div class="bg-white rounded-lg p-6 sm:p-10 mt-8 shadow-custom">
+      <div class="bg-white rounded-lg p-6 lg:p-10 mt-8 shadow-custom">
         <form action="#">
           <div>
             <input
