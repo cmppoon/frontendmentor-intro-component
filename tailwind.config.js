@@ -6,7 +6,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        main: "url('./src/assets/bg-intro-desktop.png')",
+        main: "url('bg-intro-desktop.png')",
       },
       colors: {
         "primary-red": "hsl(0, 100%, 74%)",
